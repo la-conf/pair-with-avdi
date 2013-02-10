@@ -8,5 +8,5 @@
 - Include a Gemfile for gem dependencies
 - Include a README with:
   - A brief explanation of what the code does your concrete objectives for the code. This could be either:
-    - A feature you want to add; or
-    - Something about the existing code which troubles you and which you'd like to improve.
+    - A small feature you want to add; or
+    - Something about the existing code which troubles you and which you'd like to improve. Be specific!
